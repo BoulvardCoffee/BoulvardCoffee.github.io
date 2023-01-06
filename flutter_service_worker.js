@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "444f938d42fd3feeaac1edd5abb3b48e",
-"assets/assets/data/database.json": "e3631d9f5de82e5fa2ebe16c01e096d9",
+  "assets/AssetManifest.json": "9039c7cc7fc5832091d6d2a7523c19f5",
+"assets/assets/data/database.json": "a960d1c0e8e6495c8adfbe8a946c1bfc",
 "assets/assets/images/0-0-min.jpg": "e6251c08f694b3bf5461e8f5d1276153",
 "assets/assets/images/0-1-min.jpg": "2cfcdf3865eef858af057bdfcf7715f7",
 "assets/assets/images/1-0-min.jpg": "b8258409017e8d7d5436d4b2b5791733",
@@ -203,6 +203,10 @@ const RESOURCES = {
 "assets/assets/images/9-6-min.jpg": "6668a0312ee1601d2e6eae70e5563569",
 "assets/assets/images/popup.jpg": "ce4c576cf863c487ebd6776910e8bc2e",
 "assets/assets/logo/1.png": "e12bbcce3a59265a249529b33f72f522",
+"assets/assets/logo/bein.png": "cf202e97858f2f57f961979c5580ec5c",
+"assets/assets/logo/lig.png": "91fc78b1fea9708932d4066ff80816b4",
+"assets/assets/logo/ligue.png": "be531a999f2d0373f7ce935fb28c8b14",
+"assets/assets/logo/premier.png": "0306207982978be8474b2dec43ddf041",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "2a1fb6f38b78d51404733e109826dce2",
@@ -216,9 +220,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "83ad1a5f08b5962c2ad61b515a75b0bc",
-"/": "83ad1a5f08b5962c2ad61b515a75b0bc",
-"main.dart.js": "5e9e6bb92c169d3a28ffdcde723ccfbc",
+"index.html": "fc557a57a2ee780f7cfe98a570170397",
+"/": "fc557a57a2ee780f7cfe98a570170397",
+"main.dart.js": "53c339b7ddb7b66d6b273db267199e3c",
 "manifest.json": "cca2415df12cddd406fafeb90116887a",
 "version.json": "939180a8f5ac8a0fbd34c74b11a7305a"
 };
