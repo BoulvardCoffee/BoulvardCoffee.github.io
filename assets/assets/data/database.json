@@ -34,10 +34,10 @@
       "price": "71,00",
       "info": "3 adet baharatlı kızarmış köfte topları, kıvırcık domates, turşu ve patates kızartması ile"
     },
-    "Soğan Kroket": {"price": "52,00", "info": "6 adet panelenmiş soğan halkası, patates kızartması, akdeniz yeşilliği ile"},
-    "Chicken Nugget": {"price": "52,00", "info": "Özel baharatlı patates kızartması ve tavuk nugget ile"},
-    "Aperatif Mix": {"price": "65,00", "info": "Patates kızartması, soğan, kroket, sigara böreği nugget ve yıldız sosis ile"},
-    "Sosis Tava": {"price": "52,00", "info": "Özel baharatlı patates kızartması ve yıldız sosis"}
+    "Soğan Kroket": {"price": "55,00", "info": "6 adet panelenmiş soğan halkası, patates kızartması, akdeniz yeşilliği ile"},
+    "Chicken Nugget": {"price": "55,00", "info": "Özel baharatlı patates kızartması ve tavuk nugget ile"},
+    "Aperatif Mix": {"price": "68,00", "info": "Patates kızartması, soğan, kroket, sigara böreği nugget ve yıldız sosis ile"},
+    "Sosis Tava": {"price": "55,00", "info": "Özel baharatlı patates kızartması ve yıldız sosis"}
   },
   "TOSTLAR": {
     "Çift Kaşarlı Tost": {"price": "46,00", "info": ""},
