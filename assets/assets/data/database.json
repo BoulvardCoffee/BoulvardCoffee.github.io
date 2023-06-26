@@ -12,15 +12,15 @@
     }
   },
   "OMLETLER": {
-    "İtalyan Omlet": {"price": "43,00","info": "Taze Patates,Dana Jambon, Maydanoz, Dereotu, Rende Mozarella, Roka, Domates"},
-    "Akdeniz Omlet": {"price": "46,00", "info": "Yumurta, Sucuk, Dereotu, Ezine Peynir, Taze Mantar, Maydanoz, Domates"},
-    "Protein Omlet": {"price": "46,00", "info": "3 Yumurta Beyazı, Beyaz Peynir, Siyah Zeytin, Roka, Domates, Maydanoz, Mantar"}
+    "İtalyan Omlet": {"price": "53,00","info": "Taze Patates,Dana Jambon, Maydanoz, Dereotu, Rende Mozarella, Roka, Domates"},
+    "Akdeniz Omlet": {"price": "56,00", "info": "Yumurta, Sucuk, Dereotu, Ezine Peynir, Taze Mantar, Maydanoz, Domates"},
+    "Protein Omlet": {"price": "56,00", "info": "3 Yumurta Beyazı, Beyaz Peynir, Siyah Zeytin, Roka, Domates, Maydanoz, Mantar"}
   },
   "YUMURTA SEPETLERİ": {
-    "Sahanda Patatesli Yumurta": {"price": "41,00", "info": ""},
-    "Sahanda Sucuklu Yumurta": {"price": "42,00", "info": ""},
-    "Sahanda Sade Yumurta": {"price": "39,00", "info": ""},
-    "Sahanda Menemen": {"price": "40,00", "info": ""}
+    "Sahanda Patatesli Yumurta": {"price": "51,00", "info": ""},
+    "Sahanda Sucuklu Yumurta": {"price": "52,00", "info": ""},
+    "Sahanda Sade Yumurta": {"price": "59,00", "info": ""},
+    "Sahanda Menemen": {"price": "50,00", "info": ""}
   },
   "APERATİFLER": {
     "The Boulevard Combo": {
@@ -37,7 +37,7 @@
     "Soğan Kroket": {"price": "66,00", "info": "6 adet panelenmiş soğan halkası, patates kızartması, akdeniz yeşilliği ile"},
     "Chicken Nugget": {"price": "66,00", "info": "Özel baharatlı patates kızartması ve tavuk nugget ile"},
     "Aperatif Mix": {"price": "79,00", "info": "Patates kızartması, soğan, kroket, sigara böreği nugget ve yıldız sosis ile"},
-    "Sosis Tava": {"price": "67,00", "info": "Özel baharatlı patates kızartması ve yıldız sosis"}
+    "Sosis Tava": {"price": "66,00", "info": "Özel baharatlı patates kızartması ve yıldız sosis"}
   },
   "TOSTLAR": {
     "Çift Kaşarlı Tost": {"price": "56,00", "info": ""},
@@ -88,13 +88,13 @@
     "Spagetti Napoliten": {"price": "81,00", "info": "Napoliten sos ile birlikte"}
   },
   "BURGERLER": {
-    "Boulevard Burger": {"price": "100,00", "info": "Ev Yapımı Burger Köfte, Turşu, Patates Kızartması, Akdeniz Yeşillikleri"},
-    "Texas Burger": {"price": "102,00", "info": "Ev Yapımı Burger Köfte, Cheddar, Acı Sos, Turşu Patates Kızartması"},
-    "Cheese Burger": {"price": "103,00", "info": "Çedar Peyniri, Marul Yaprakları, Turşu, Domates, Patates Kızartması"},
-    "Chicken Burger": {"price": "98,00", "info": "Tavuk Göğüsü, Çıtır Marul Yaprakları, Mayonez, Turşu, Domates, Patates Kızartması"},
-    "Steak Burger": {"price": "114,00", "info": "Bonﬁle Dilimleri, Erimiş Cheddar Peyniri, Patates Kızartması"},
+    "Boulevard Burger": {"price": "101,00", "info": "Ev Yapımı Burger Köfte, Turşu, Patates Kızartması, Akdeniz Yeşillikleri"},
+    "Texas Burger": {"price": "103,00", "info": "Ev Yapımı Burger Köfte, Cheddar, Acı Sos, Turşu Patates Kızartması"},
+    "Cheese Burger": {"price": "104,00", "info": "Çedar Peyniri, Marul Yaprakları, Turşu, Domates, Patates Kızartması"},
+    "Chicken Burger": {"price": "99,00", "info": "Tavuk Göğüsü, Çıtır Marul Yaprakları, Mayonez, Turşu, Domates, Patates Kızartması"},
+    "Steak Burger": {"price": "115,00", "info": "Bonﬁle Dilimleri, Erimiş Cheddar Peyniri, Patates Kızartması"},
     "BBQ Burger": {"price": "102,00", "info": "Ev Yapımı Burger Köfte, Turşu Patates Kızartması, Akdeniz Yeşillikleri BBQ Sos ile"},
-    "Sosisli Burger (Hot Dog)": {"price": "94,00", "info": "Franks Sosis, Karamelize Soğan, Sote Mantar, Patates Kızartması"}
+    "Sosisli Burger (Hot Dog)": {"price": "97,00", "info": "Franks Sosis, Karamelize Soğan, Sote Mantar, Patates Kızartması"}
   },
   "ANA YEMEKLER": {
     "Izgara Bonﬁle": {"price": "160,00", "info": "Çifte Kavrulmuş Patates Püresi, Haşlanmış Sebze, Mantarlı Demi Glace Sos"},
@@ -123,7 +123,7 @@
     "Hellim Salata": {"price": "72,00", "info": "Akdeniz Yeşilliği, Kızarmış Hellim Peyniri, Köz Biber, Roka, Demi Glace Sos"},
     "Akdeniz Soslu Salata": {"price": "68,00", "info": "Siyah zeytin, mısır, özel akdeniz sosu ile"},
     "Cheese Salata": {"price": "72,00", "info": "Permasan peyniri, rendelenmiş kaşar peyniri, beyaz peynir, kekik ve sos ile"},
-    "Bufalo Soslu Tavuk Salata": {"price": "72,00", "info": "Bufalo soslu tavuk, kruton ekmek ve sos ile"}
+    "Bufalo Soslu Tavuk Salata": {"price": "73,00", "info": "Bufalo soslu tavuk, kruton ekmek ve sos ile"}
   },
   "TATLILAR": {
     "Islak Kek": {"price": "73,00", "info": ""},
@@ -159,9 +159,9 @@
     "Ada Çayı": {"price": "48,00", "info": ""}
   },
   "KAHVE\nSAHLEP\nÇİKOLATA": {
-    "Türk Kahvesi": {"price": "35,50", "info": "Su veya soda eşliğinde"},
-    "Damla Sakızlı Türk Kahvesi": {"price": "36,50", "info": "Su veya soda eşliğinde"},
-    "Menengiç Kahvesi": {"price": "36,50", "info": "Su veya soda eşliğinde"},
+    "Türk Kahvesi": {"price": "37,00", "info": "Su veya soda eşliğinde"},
+    "Damla Sakızlı Türk Kahvesi": {"price": "38,00", "info": "Su veya soda eşliğinde"},
+    "Menengiç Kahvesi": {"price": "38,00", "info": "Su veya soda eşliğinde"},
     "Espresso": {"price": "47,00", "info": ""},
     "Double Espresso": {"price": "49,00", "info": ""},
     "Sade Filtre Kahve": {"price": "49,00", "info": ""},
