@@ -12,46 +12,46 @@
     }
   },
   "OMLETLER": {
-    "İtalyan Omlet": {"price": "63,00","info": "Taze Patates,Dana Jambon, Maydanoz, Dereotu, Rende Mozarella, Roka, Domates"},
-    "Akdeniz Omlet": {"price": "66,00", "info": "Yumurta, Sucuk, Dereotu, Ezine Peynir, Taze Mantar, Maydanoz, Domates"},
-    "Protein Omlet": {"price": "66,00", "info": "3 Yumurta Beyazı, Beyaz Peynir, Siyah Zeytin, Roka, Domates, Maydanoz, Mantar"}
+    "İtalyan Omlet": {"price": "73,00","info": "Taze Patates,Dana Jambon, Maydanoz, Dereotu, Rende Mozarella, Roka, Domates"},
+    "Akdeniz Omlet": {"price": "76,00", "info": "Yumurta, Sucuk, Dereotu, Ezine Peynir, Taze Mantar, Maydanoz, Domates"},
+    "Protein Omlet": {"price": "76,00", "info": "3 Yumurta Beyazı, Beyaz Peynir, Siyah Zeytin, Roka, Domates, Maydanoz, Mantar"}
   },
   "YUMURTA SEPETLERİ": {
-    "Sahanda Patatesli Yumurta": {"price": "61,00", "info": ""},
-    "Sahanda Sucuklu Yumurta": {"price": "62,00", "info": ""},
-    "Sahanda Sade Yumurta": {"price": "69,00", "info": ""},
-    "Sahanda Menemen": {"price": "60,00", "info": ""}
+    "Sahanda Patatesli Yumurta": {"price": "71,00", "info": ""},
+    "Sahanda Sucuklu Yumurta": {"price": "72,00", "info": ""},
+    "Sahanda Sade Yumurta": {"price": "79,00", "info": ""},
+    "Sahanda Menemen": {"price": "70,00", "info": ""}
   },
   "APERATİFLER": {
     "The Boulevard Combo": {
-      "price": "92,00",
+      "price": "100,00",
       "info": "Yıldız sosis, soğan halkası, mozarella sticks sigara böreği, ızgara köfte, akdeniz yeşilliği yoğurt ve patates kızartması ile"
     },
-    "Sigara Böreği": {"price": "74,00", "info": "6 adet sigara böreği, patates kızartması akdeniz yeşilliği ve yoğurt ile"},
-    "Özel Baharatlı Patates Kızarması": {"price": "67,00", "info": "Özel baharatlarla harmanlanmış patates kızartması ile"},
-    "Mozarella Sticks": {"price": "75,00", "info": "6 adet mozarella sticks, patates kızartması akdeniz yeşilliği, range sos ile"},
+    "Sigara Böreği": {"price": "82,00", "info": "6 adet sigara böreği, patates kızartması akdeniz yeşilliği ve yoğurt ile"},
+    "Özel Baharatlı Patates Kızarması": {"price": "72,00", "info": "Özel baharatlarla harmanlanmış patates kızartması ile"},
+    "Mozarella Sticks": {"price": "83,00", "info": "6 adet mozarella sticks, patates kızartması akdeniz yeşilliği, range sos ile"},
     "Mini Şiş Köfte Sandviç": {
-      "price": "90,00",
+      "price": "98,00",
       "info": "3 adet baharatlı kızarmış köfte topları, kıvırcık domates, turşu ve patates kızartması ile"
     },
-    "Soğan Kroket": {"price": "74,00", "info": "6 adet panelenmiş soğan halkası, patates kızartması, akdeniz yeşilliği ile"},
-    "Chicken Nugget": {"price": "74,00", "info": "Özel baharatlı patates kızartması ve tavuk nugget ile"},
-    "Aperatif Mix": {"price": "87,00", "info": "Patates kızartması, soğan, kroket, sigara böreği nugget ve yıldız sosis ile"},
-    "Sosis Tava": {"price": "74,00", "info": "Özel baharatlı patates kızartması ve yıldız sosis"}
+    "Soğan Kroket": {"price": "82,00", "info": "6 adet panelenmiş soğan halkası, patates kızartması, akdeniz yeşilliği ile"},
+    "Chicken Nugget": {"price": "82,00", "info": "Özel baharatlı patates kızartması ve tavuk nugget ile"},
+    "Aperatif Mix": {"price": "95,00", "info": "Patates kızartması, soğan, kroket, sigara böreği nugget ve yıldız sosis ile"},
+    "Sosis Tava": {"price": "82,00", "info": "Özel baharatlı patates kızartması ve yıldız sosis"}
   },
   "TOSTLAR": {
-    "Çift Kaşarlı Tost": {"price": "62,00", "info": ""},
-    "Sucuklu Tost": {"price": "64,00", "info": ""},
-    "Karışık Tost": {"price": "65,00", "info": ""},
-    "Salçalı Sanayi Tostu": {"price": "69,00", "info": ""},
-    "Bazlama Tost": {"price": "69,00", "info": ""},
-    "Beyaz Peynirli Tost": {"price": "60,00", "info": ""}
+    "Çift Kaşarlı Tost": {"price": "72,00", "info": ""},
+    "Sucuklu Tost": {"price": "74,00", "info": ""},
+    "Karışık Tost": {"price": "75,00", "info": ""},
+    "Salçalı Sanayi Tostu": {"price": "79,00", "info": ""},
+    "Bazlama Tost": {"price": "79,00", "info": ""},
+    "Beyaz Peynirli Tost": {"price": "70,00", "info": ""}
   },
   "GÖZLEMELER": {
-    "Patatesli Gözleme": {"price": "71,00", "info": ""},
-    "Kaşarlı Gözleme": {"price": "72,00", "info": ""},
-    "Sucuklu Gözleme": {"price": "72,00", "info": ""},
-    "Karışık Gözleme": {"price": "73,00", "info": ""}
+    "Patatesli Gözleme": {"price": "81,00", "info": ""},
+    "Kaşarlı Gözleme": {"price": "82,00", "info": ""},
+    "Sucuklu Gözleme": {"price": "82,00", "info": ""},
+    "Karışık Gözleme": {"price": "83,00", "info": ""}
   },
   "DÜRÜM, QUASEDILLA ve KREPLER": {
     "Mantarlı Et Dürüm": {"price": "100,00", "info": ""},
@@ -64,18 +64,18 @@
     "Tavuklu Quesadilla": {"price": "94,00", "info": ""}
   },
   "PİZZALAR": {
-    "Margarita Dop": {"price": "145,00", "info": "Mozarella, Fesleğen, Kekik, Domates Sos"},
-    "Sucuklu Pizza": {"price": "151,00", "info": "Sucuk, Yeşil Biber, Kırmızı Biber, Jalapeno Biber, Kekik, Pul Biber, Mozarella, Domates Sos"},
-    "Karışık Pizza": {"price": "150,00", "info": "Sucuk, Salam, Mısır, Siyah Zeytin, Roka, Domates Sos, Mozarella"},
-    "Mexicano Pizza": {"price": "151,00", "info": "Sucuk, kekikli domates sos, jalepone biber, mozarella"},
-    "Füme ile Jalepone": {"price": "151,00", "info": "Dana füme, soğan, jalepon biber, yeşil biber, domates sos, mozarella"},
-    "Ormancı Pizza": {"price": "147,00", "info": "Porçini Mantarı, Patlıcan, Fırın Patates, Mozarella, Roka"},
-    "4 Peynirli Pizza": {"price": "148,00", "info": "Hellim, Cheddar, Mozarella, Beyaz Peynir, Roka"},
-    "Pepperoni Pizza": {"price": "147,00", "info": "Pepperoni, Jalapeno Biber, Cheddar Peyniri, Pul Biber, Kekik, Mozarella"},
-    "BBQ Tavuk Pizza": {"price": "150,00", "info": "Tavuk Göğüs, Patates Cips, BBQ Sos, Pul Biber, Kekik"},
-    "Vejeteryan Pizza": {"price": "149,00", "info": "Patlıcan, Kabak, Sarı Ve Kırmızı Biber, Fesleğen, Mozarella"},
-    "Asya Esintisi": {"price": "150,00", "info": "Kızarmış tavuk parçaları, yeşil biber, kırmızı biber, soğan, domates sos, mozarella"},
-    "Köz Patlıcanlı Garlic Soslu": {"price": "148,00", "info": "Köz patlıcan, sarımsak sos, kaşar peyniri, baharatlı domates sos, mozarella"}
+    "Margarita Dop": {"price": "155,00", "info": "Mozarella, Fesleğen, Kekik, Domates Sos"},
+    "Sucuklu Pizza": {"price": "161,00", "info": "Sucuk, Yeşil Biber, Kırmızı Biber, Jalapeno Biber, Kekik, Pul Biber, Mozarella, Domates Sos"},
+    "Karışık Pizza": {"price": "160,00", "info": "Sucuk, Salam, Mısır, Siyah Zeytin, Roka, Domates Sos, Mozarella"},
+    "Mexicano Pizza": {"price": "161,00", "info": "Sucuk, kekikli domates sos, jalepone biber, mozarella"},
+    "Füme ile Jalepone": {"price": "161,00", "info": "Dana füme, soğan, jalepon biber, yeşil biber, domates sos, mozarella"},
+    "Ormancı Pizza": {"price": "157,00", "info": "Porçini Mantarı, Patlıcan, Fırın Patates, Mozarella, Roka"},
+    "4 Peynirli Pizza": {"price": "158,00", "info": "Hellim, Cheddar, Mozarella, Beyaz Peynir, Roka"},
+    "Pepperoni Pizza": {"price": "157,00", "info": "Pepperoni, Jalapeno Biber, Cheddar Peyniri, Pul Biber, Kekik, Mozarella"},
+    "BBQ Tavuk Pizza": {"price": "160,00", "info": "Tavuk Göğüs, Patates Cips, BBQ Sos, Pul Biber, Kekik"},
+    "Vejeteryan Pizza": {"price": "159,00", "info": "Patlıcan, Kabak, Sarı Ve Kırmızı Biber, Fesleğen, Mozarella"},
+    "Asya Esintisi": {"price": "160,00", "info": "Kızarmış tavuk parçaları, yeşil biber, kırmızı biber, soğan, domates sos, mozarella"},
+    "Köz Patlıcanlı Garlic Soslu": {"price": "158,00", "info": "Köz patlıcan, sarımsak sos, kaşar peyniri, baharatlı domates sos, mozarella"}
   },
   "MAKARNALAR": {
     "Penne Arabiatta": {"price": "90,00", "info": "Acılı Domates Sos, Siyah Zeytin, Cherry Domates"},
@@ -97,23 +97,23 @@
     "Sosisli Burger (Hot Dog)": {"price": "142,00", "info": "Franks Sosis, Karamelize Soğan, Sote Mantar, Patates Kızartması"}
   },
   "ANA YEMEKLER": {
-    "Izgara Bonﬁle": {"price": "227,00", "info": "Çifte Kavrulmuş Patates Püresi, Haşlanmış Sebze, Mantarlı Demi Glace Sos"},
-    "Kasap Köfte": {"price": "153,00", "info": "Domates Soslu Çıtır Pide veya Lavaş , Salata, Sote Patates, Izgara Domates - Biber İle"},
-    "Lokum": {"price": "257,00", "info": "Çifte Kavrulmuş Baby Patates, Izgara Taze Soğan, Acı Dijon Hardal"},
-    "Çökertme": {"price": "154,00", "info": "Kibrit Patates, Yaprak Dana Bonﬁle, Yoğurt Ve Tereyağlı İskender Sos İle"},
-    "Kuzu Şiş": {"price": "154,00", "info": "Cherry Domates, Taze Baharatlı Yeşil Salata Bulgur Pilavı ile"},
-    "Soslu Pideli Köfte": {"price": "156,00", "info": "Domates Soslu Küp Doğranmış Pide, Salata, Sote Patates, Izgara Domates - Biber İle"},
-    "Kaşarlı Köfte": {"price": "156,00", "info": "Eritilmiş Kaşar, Çıtır Pide veya Lavaş , Salata, Sote Patates, Izgara Domates - Biber İle"},
-    "Tavuk Çökerme": {"price": "147,00", "info": "Patates kızartması yatağında sarımsaklı yoğurt sos akdeniz yeşilliği ile"},
-    "Mantar Soslu Tavuk Bonﬁle": {"price": "144,00", "info": "Karamelize soğan ve mantar, haşlanmış sebze ve garnitür ile"},
-    "Kekiklim": {"price": "144,00", "info": "Özel baharatla marine edilmiş tavuk göğsü, penne makarna ve akdeniz yeşilliği ile"},
-    "Milanese Tavuk": {"price": "144,00", "info": "Paneli Tavuk, Tane Hardallı Patates Salata, Roka, Cherry Domates, Baharatlı Tereyağı ile"},
-    "Izgara Tavuk Göğüs": {"price": "146,00", "info": "Sote Sebze, Demi Glace Sos İle"},
-    "Tereyaki Piliç But": {"price": "156,00", "info": "Hardallı Patates Salata, Akdeniz Yeşilliği, Tereyaki Sos ile"},
-    "Köri Soslu Tavuk": {"price": "146,00", "info": "Taze Mantar, Renkli Biberler, Çıtır Kabak, Kremalı Sos İle"},
-    "BBQ Soslu Tavuk": {"price": "146,00", "info": "Taze Mantar, Renkli Biberler, Çıtır Kabak, BBQ Sos İle"},
-    "Sweet Chilly": {"price": "146,00", "info": "Taze Mantar, Renkli Biberler, Çıtır Kabak, Chilly Sos İle"},
-    "Chicken Mashroom": {"price": "147,00", "info": "Taze Mantar, Renkli Biberler, Çıtır Kabak, Krema Sos İle"}
+    "Izgara Bonﬁle": {"price": "237,00", "info": "Çifte Kavrulmuş Patates Püresi, Haşlanmış Sebze, Mantarlı Demi Glace Sos"},
+    "Kasap Köfte": {"price": "163,00", "info": "Domates Soslu Çıtır Pide veya Lavaş , Salata, Sote Patates, Izgara Domates - Biber İle"},
+    "Lokum": {"price": "267,00", "info": "Çifte Kavrulmuş Baby Patates, Izgara Taze Soğan, Acı Dijon Hardal"},
+    "Çökertme": {"price": "164,00", "info": "Kibrit Patates, Yaprak Dana Bonﬁle, Yoğurt Ve Tereyağlı İskender Sos İle"},
+    "Kuzu Şiş": {"price": "164,00", "info": "Cherry Domates, Taze Baharatlı Yeşil Salata Bulgur Pilavı ile"},
+    "Soslu Pideli Köfte": {"price": "166,00", "info": "Domates Soslu Küp Doğranmış Pide, Salata, Sote Patates, Izgara Domates - Biber İle"},
+    "Kaşarlı Köfte": {"price": "166,00", "info": "Eritilmiş Kaşar, Çıtır Pide veya Lavaş , Salata, Sote Patates, Izgara Domates - Biber İle"},
+    "Tavuk Çökerme": {"price": "157,00", "info": "Patates kızartması yatağında sarımsaklı yoğurt sos akdeniz yeşilliği ile"},
+    "Mantar Soslu Tavuk Bonﬁle": {"price": "154,00", "info": "Karamelize soğan ve mantar, haşlanmış sebze ve garnitür ile"},
+    "Kekiklim": {"price": "154,00", "info": "Özel baharatla marine edilmiş tavuk göğsü, penne makarna ve akdeniz yeşilliği ile"},
+    "Milanese Tavuk": {"price": "154,00", "info": "Paneli Tavuk, Tane Hardallı Patates Salata, Roka, Cherry Domates, Baharatlı Tereyağı ile"},
+    "Izgara Tavuk Göğüs": {"price": "156,00", "info": "Sote Sebze, Demi Glace Sos İle"},
+    "Tereyaki Piliç But": {"price": "166,00", "info": "Hardallı Patates Salata, Akdeniz Yeşilliği, Tereyaki Sos ile"},
+    "Köri Soslu Tavuk": {"price": "156,00", "info": "Taze Mantar, Renkli Biberler, Çıtır Kabak, Kremalı Sos İle"},
+    "BBQ Soslu Tavuk": {"price": "156,00", "info": "Taze Mantar, Renkli Biberler, Çıtır Kabak, BBQ Sos İle"},
+    "Sweet Chilly": {"price": "156,00", "info": "Taze Mantar, Renkli Biberler, Çıtır Kabak, Chilly Sos İle"},
+    "Chicken Mashroom": {"price": "157,00", "info": "Taze Mantar, Renkli Biberler, Çıtır Kabak, Krema Sos İle"}
   },
   "SALATALAR": {
     "Sezar Salata": {"price": "80,00", "info": "Cruton, Kızarmış Sarımsak, Marul, Izgara Tavuk Göğüs, Sezar Sos İle"},
@@ -144,19 +144,19 @@
     "Nutellalı Pizza": {"price": "87,00", "info": ""}
   },
   "ÇAY ÇEŞİTLERİ": {
-    "Çay": {"price": "15,00", "info": ""},
-    "Yaseminli Yeşil Çay": {"price": "57,00", "info": ""},
-    "Zenceﬁl & Tarçın Çayı": {"price": "57,00", "info": ""},
-    "Kış Çayı": {"price": "57,00", "info": ""},
-    "Rezene Çayı": {"price": "57,00", "info": ""},
-    "Detox Çayı": {"price": "58,00", "info": ""},
-    "Zenceﬁl ": {"price": "57,00", "info": ""},
-    "Yeşil Çay": {"price": "57,00", "info": ""},
-    "Ihlamur": {"price": "58,00", "info": ""},
-    "Elma Çayı": {"price": "58,00", "info": ""},
-    "Elma Tarçın Çayı": {"price": "58,00", "info": ""},
-    "Papatya Çayı": {"price": "58,00", "info": ""},
-    "Ada Çayı": {"price": "58,00", "info": ""}
+    "Çay": {"price": "20,00", "info": ""},
+    "Yaseminli Yeşil Çay": {"price": "67,00", "info": ""},
+    "Zenceﬁl & Tarçın Çayı": {"price": "67,00", "info": ""},
+    "Kış Çayı": {"price": "67,00", "info": ""},
+    "Rezene Çayı": {"price": "67,00", "info": ""},
+    "Detox Çayı": {"price": "68,00", "info": ""},
+    "Zenceﬁl ": {"price": "67,00", "info": ""},
+    "Yeşil Çay": {"price": "67,00", "info": ""},
+    "Ihlamur": {"price": "68,00", "info": ""},
+    "Elma Çayı": {"price": "68,00", "info": ""},
+    "Elma Tarçın Çayı": {"price": "68,00", "info": ""},
+    "Papatya Çayı": {"price": "68,00", "info": ""},
+    "Ada Çayı": {"price": "68,00", "info": ""}
   },
   "KAHVE\nSAHLEP\nÇİKOLATA": {
     "Türk Kahvesi": {"price": "47,00", "info": "Su veya soda eşliğinde"},
@@ -208,22 +208,22 @@
     "Ice Americano": {"price": "70,00", "info": ""}
   },
   "SOĞUK SPECIAL ÇAYLAR": {
-    "Greyfurt Şeftali Çayı": {"price": "64,00", "info": "Greyfurt, Şeftali, Çay, Chia Tohumu"},
-    "Pomegranate Hibiscus Mint Tea": {"price": "64,00", "info": "Küba Nanesi, Nar Çiçeği Çayı, Nar Ve Çay"},
-    "Ice Lemon Tea": {"price": "64,00", "info": "Limon ve soğuk çay"},
-    "Strawberry Cheesecake Tea": {"price": "64,00", "info": "Çilek, Cheescake Sos, Süt, Çay"},
-    "Galaxy Tea": {"price": "64,00", "info": "Soda, Çay, Passion Püre"}
+    "Greyfurt Şeftali Çayı": {"price": "74,00", "info": "Greyfurt, Şeftali, Çay, Chia Tohumu"},
+    "Pomegranate Hibiscus Mint Tea": {"price": "74,00", "info": "Küba Nanesi, Nar Çiçeği Çayı, Nar Ve Çay"},
+    "Ice Lemon Tea": {"price": "74,00", "info": "Limon ve soğuk çay"},
+    "Strawberry Cheesecake Tea": {"price": "74,00", "info": "Çilek, Cheescake Sos, Süt, Çay"},
+    "Galaxy Tea": {"price": "74,00", "info": "Soda, Çay, Passion Püre"}
   },
   "LİMONATALAR": {
-    "Mango & Berry Limonata": {"price": "67,00", "info": "Mango, Limonata, Berry"},
-    "Armut & Yeşil Elma Limonata": {"price": "67,00", "info": "Elma, Armut, Limonata"},
-    "Ananas & Mojito Limonata": {"price": "67,00", "info": "Küba Nanesi, Ananas Püre, Limonata"},
-    "Muz & Maydanoz Limonata": {"price": "67,00", "info": "Muz, Maydanoz, Limonata"},
-    "Detox Limonata": {"price": "67,00", "info": "Salatalık, Elma, Limonata"},
-    "Klasik Limonata": {"price": "66,00", "info": "Klasik Limonata"},
-    "Çilek Limonata": {"price": "67,00", "info": "Çilek, Limonata"},
-    "Nane Limonata": {"price": "67,00", "info": "Nane Limonata"},
-    "CooL Lime": {"price": "67,00", "info": "Limon, Esmer Şeker, Nane"}
+    "Mango & Berry Limonata": {"price": "72,00", "info": "Mango, Limonata, Berry"},
+    "Armut & Yeşil Elma Limonata": {"price": "72,00", "info": "Elma, Armut, Limonata"},
+    "Ananas & Mojito Limonata": {"price": "72,00", "info": "Küba Nanesi, Ananas Püre, Limonata"},
+    "Muz & Maydanoz Limonata": {"price": "72,00", "info": "Muz, Maydanoz, Limonata"},
+    "Detox Limonata": {"price": "72,00", "info": "Salatalık, Elma, Limonata"},
+    "Klasik Limonata": {"price": "71,00", "info": "Klasik Limonata"},
+    "Çilek Limonata": {"price": "72,00", "info": "Çilek, Limonata"},
+    "Nane Limonata": {"price": "72,00", "info": "Nane Limonata"},
+    "CooL Lime": {"price": "72,00", "info": "Limon, Esmer Şeker, Nane"}
   },
   "FROZEN ÇEŞİTLERİ": {
     "Çilek Frozen": {"price": "70,00", "info": ""},
