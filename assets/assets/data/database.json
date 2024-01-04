@@ -252,5 +252,11 @@
     "Oreo Milkshake": {"price": "73,00", "info": ""},
     "Soğuk Çikolata": {"price": "73,00", "info": ""},
     "Soğuk Beyaz Çikolata": {"price": "73,00", "info": ""}
+  },  
+  "SOĞUK İÇECEKLER": {
+    "Cola & Meşrubat": {"price": "45,00", "info": ""},
+    "Sade Soda": {"price": "30,00", "info": ""},
+    "Meyveli Soda": {"price": "35,00", "info": ""},
+    "Su": {"price": "30,00", "info": ""}
   }
 }
