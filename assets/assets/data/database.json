@@ -24,20 +24,20 @@
   },
   "APERATİFLER": {
     "The Boulevard Combo": {
-      "price": "106,00",
+      "price": "111,00",
       "info": "Yıldız sosis, soğan halkası, mozarella sticks sigara böreği, ızgara köfte, akdeniz yeşilliği yoğurt ve patates kızartması ile"
     },
-    "Sigara Böreği": {"price": "88,00", "info": "6 adet sigara böreği, patates kızartması akdeniz yeşilliği ve yoğurt ile"},
-    "Özel Baharatlı Patates Kızarması": {"price": "78,00", "info": "Özel baharatlarla harmanlanmış patates kızartması ile"},
-    "Mozarella Sticks": {"price": "89,00", "info": "6 adet mozarella sticks, patates kızartması akdeniz yeşilliği, range sos ile"},
+    "Sigara Böreği": {"price": "93,00", "info": "6 adet sigara böreği, patates kızartması akdeniz yeşilliği ve yoğurt ile"},
+    "Özel Baharatlı Patates Kızarması": {"price": "93,00", "info": "Özel baharatlarla harmanlanmış patates kızartması ile"},
+    "Mozarella Sticks": {"price": "94,00", "info": "6 adet mozarella sticks, patates kızartması akdeniz yeşilliği, range sos ile"},
     "Mini Şiş Köfte Sandviç": {
-      "price": "104,00",
+      "price": "109,00",
       "info": "3 adet baharatlı kızarmış köfte topları, kıvırcık domates, turşu ve patates kızartması ile"
     },
-    "Soğan Kroket": {"price": "88,00", "info": "6 adet panelenmiş soğan halkası, patates kızartması, akdeniz yeşilliği ile"},
-    "Chicken Nugget": {"price": "88,00", "info": "Özel baharatlı patates kızartması ve tavuk nugget ile"},
-    "Aperatif Mix": {"price": "101,00", "info": "Patates kızartması, soğan, kroket, sigara böreği nugget ve yıldız sosis ile"},
-    "Sosis Tava": {"price": "88,00", "info": "Özel baharatlı patates kızartması ve yıldız sosis"}
+    "Soğan Kroket": {"price": "93,00", "info": "6 adet panelenmiş soğan halkası, patates kızartması, akdeniz yeşilliği ile"},
+    "Chicken Nugget": {"price": "93,00", "info": "Özel baharatlı patates kızartması ve tavuk nugget ile"},
+    "Aperatif Mix": {"price": "106,00", "info": "Patates kızartması, soğan, kroket, sigara böreği nugget ve yıldız sosis ile"},
+    "Sosis Tava": {"price": "93,00", "info": "Özel baharatlı patates kızartması ve yıldız sosis"}
   },
   "TOSTLAR": {
     "Çift Kaşarlı Tost": {"price": "72,00", "info": ""},
@@ -54,47 +54,47 @@
     "Karışık Gözleme": {"price": "93,00", "info": ""}
   },
   "DÜRÜM, QUASEDILLA ve KREPLER": {
-    "Mantarlı Et Dürüm": {"price": "115,00", "info": ""},
-    "Vejeteryan Quesedilla": {"price": "106,00", "info": ""},
-    "Mantarlı Tavuk Dürüm": {"price": "109,00", "info": ""},
-    "Çıtır Tavuklu Dürüm": {"price": "109,00", "info": ""},
-    "Chilly Hot Wrap": {"price": "109,00", "info": ""},
-    "BBQ Krep": {"price": "109,00", "info": ""},
-    "Etli Quesadilla": {"price": "114,00", "info": ""},
-    "Tavuklu Quesadilla": {"price": "109,00", "info": ""}
+    "Mantarlı Et Dürüm": {"price": "130,00", "info": ""},
+    "Vejeteryan Quesedilla": {"price": "121,00", "info": ""},
+    "Mantarlı Tavuk Dürüm": {"price": "124,00", "info": ""},
+    "Çıtır Tavuklu Dürüm": {"price": "124,00", "info": ""},
+    "Chilly Hot Wrap": {"price": "124,00", "info": ""},
+    "BBQ Krep": {"price": "124,00", "info": ""},
+    "Etli Quesadilla": {"price": "129,00", "info": ""},
+    "Tavuklu Quesadilla": {"price": "124,00", "info": ""}
   },
   "PİZZALAR": {
-    "Margarita Dop": {"price": "165,00", "info": "Mozarella, Fesleğen, Kekik, Domates Sos"},
-    "Sucuklu Pizza": {"price": "171,00", "info": "Sucuk, Yeşil Biber, Kırmızı Biber, Jalapeno Biber, Kekik, Pul Biber, Mozarella, Domates Sos"},
-    "Karışık Pizza": {"price": "170,00", "info": "Sucuk, Salam, Mısır, Siyah Zeytin, Roka, Domates Sos, Mozarella"},
-    "Mexicano Pizza": {"price": "171,00", "info": "Sucuk, kekikli domates sos, jalepone biber, mozarella"},
-    "Füme ile Jalepone": {"price": "171,00", "info": "Dana füme, soğan, jalepon biber, yeşil biber, domates sos, mozarella"},
-    "Ormancı Pizza": {"price": "167,00", "info": "Porçini Mantarı, Patlıcan, Fırın Patates, Mozarella, Roka"},
-    "4 Peynirli Pizza": {"price": "168,00", "info": "Hellim, Cheddar, Mozarella, Beyaz Peynir, Roka"},
-    "Pepperoni Pizza": {"price": "167,00", "info": "Pepperoni, Jalapeno Biber, Cheddar Peyniri, Pul Biber, Kekik, Mozarella"},
-    "BBQ Tavuk Pizza": {"price": "170,00", "info": "Tavuk Göğüs, Patates Cips, BBQ Sos, Pul Biber, Kekik"},
-    "Vejeteryan Pizza": {"price": "169,00", "info": "Patlıcan, Kabak, Sarı Ve Kırmızı Biber, Fesleğen, Mozarella"},
-    "Asya Esintisi": {"price": "170,00", "info": "Kızarmış tavuk parçaları, yeşil biber, kırmızı biber, soğan, domates sos, mozarella"},
-    "Köz Patlıcanlı Garlic Soslu": {"price": "168,00", "info": "Köz patlıcan, sarımsak sos, kaşar peyniri, baharatlı domates sos, mozarella"}
+    "Margarita Dop": {"price": "185,00", "info": "Mozarella, Fesleğen, Kekik, Domates Sos"},
+    "Sucuklu Pizza": {"price": "191,00", "info": "Sucuk, Yeşil Biber, Kırmızı Biber, Jalapeno Biber, Kekik, Pul Biber, Mozarella, Domates Sos"},
+    "Karışık Pizza": {"price": "190,00", "info": "Sucuk, Salam, Mısır, Siyah Zeytin, Roka, Domates Sos, Mozarella"},
+    "Mexicano Pizza": {"price": "191,00", "info": "Sucuk, kekikli domates sos, jalepone biber, mozarella"},
+    "Füme ile Jalepone": {"price": "191,00", "info": "Dana füme, soğan, jalepon biber, yeşil biber, domates sos, mozarella"},
+    "Ormancı Pizza": {"price": "187,00", "info": "Porçini Mantarı, Patlıcan, Fırın Patates, Mozarella, Roka"},
+    "4 Peynirli Pizza": {"price": "188,00", "info": "Hellim, Cheddar, Mozarella, Beyaz Peynir, Roka"},
+    "Pepperoni Pizza": {"price": "187,00", "info": "Pepperoni, Jalapeno Biber, Cheddar Peyniri, Pul Biber, Kekik, Mozarella"},
+    "BBQ Tavuk Pizza": {"price": "190,00", "info": "Tavuk Göğüs, Patates Cips, BBQ Sos, Pul Biber, Kekik"},
+    "Vejeteryan Pizza": {"price": "189,00", "info": "Patlıcan, Kabak, Sarı Ve Kırmızı Biber, Fesleğen, Mozarella"},
+    "Asya Esintisi": {"price": "190,00", "info": "Kızarmış tavuk parçaları, yeşil biber, kırmızı biber, soğan, domates sos, mozarella"},
+    "Köz Patlıcanlı Garlic Soslu": {"price": "188,00", "info": "Köz patlıcan, sarımsak sos, kaşar peyniri, baharatlı domates sos, mozarella"}
   },
   "MAKARNALAR": {
-    "Penne Arabiatta": {"price": "93,00", "info": "Acılı Domates Sos, Siyah Zeytin, Cherry Domates"},
-    "Penne Emiliano": {"price": "95,00", "info": "Közlenmiş Domates Sos, Dana Bonﬁle Dilimleri, Mantar, Roka Ve Siyah Zeytin"},
-    "Tavuk Tagliatelli": {"price": "96,00", "info": "Taze Mantar, Tavuk Bonﬁle Dilimleri Ve Krema Sos ile"},
-    "Saray Mantı": {"price": "96,00", "info": "Kızarmış Mantı, Naneli Yoğurt Ve Köz Domates Sos ile"},
-    "Köri Soslu Penne": {"price": "95,00", "info": "Kremalı köri sos ile birlikte"},
-    "Bolonez Soslu Farfalle": {"price": "97,00", "info": "Bolonez sos ile birlikte"},
-    "Pesto De Penne": {"price": "97,00", "info": "Pesto sos ile birlikte"},
-    "Spagetti Napoliten": {"price": "98,00", "info": "Napoliten sos ile birlikte"}
+    "Penne Arabiatta": {"price": "103,00", "info": "Acılı Domates Sos, Siyah Zeytin, Cherry Domates"},
+    "Penne Emiliano": {"price": "105,00", "info": "Közlenmiş Domates Sos, Dana Bonﬁle Dilimleri, Mantar, Roka Ve Siyah Zeytin"},
+    "Tavuk Tagliatelli": {"price": "106,00", "info": "Taze Mantar, Tavuk Bonﬁle Dilimleri Ve Krema Sos ile"},
+    "Saray Mantı": {"price": "106,00", "info": "Kızarmış Mantı, Naneli Yoğurt Ve Köz Domates Sos ile"},
+    "Köri Soslu Penne": {"price": "105,00", "info": "Kremalı köri sos ile birlikte"},
+    "Bolonez Soslu Farfalle": {"price": "107,00", "info": "Bolonez sos ile birlikte"},
+    "Pesto De Penne": {"price": "107,00", "info": "Pesto sos ile birlikte"},
+    "Spagetti Napoliten": {"price": "108,00", "info": "Napoliten sos ile birlikte"}
   },
   "BURGERLER": {
-    "Boulevard Burger": {"price": "157,00", "info": "Ev Yapımı Burger Köfte, Turşu, Patates Kızartması, Akdeniz Yeşillikleri"},
-    "Texas Burger": {"price": "159,00", "info": "Ev Yapımı Burger Köfte, Cheddar, Acı Sos, Turşu Patates Kızartması"},
-    "Cheese Burger": {"price": "160,00", "info": "Çedar Peyniri, Marul Yaprakları, Turşu, Domates, Patates Kızartması"},
-    "Chicken Burger": {"price": "155,00", "info": "Tavuk Göğüsü, Çıtır Marul Yaprakları, Mayonez, Turşu, Domates, Patates Kızartması"},
-    "Steak Burger": {"price": "171,00", "info": "Bonﬁle Dilimleri, Erimiş Cheddar Peyniri, Patates Kızartması"},
-    "BBQ Burger": {"price": "158,00", "info": "Ev Yapımı Burger Köfte, Turşu Patates Kızartması, Akdeniz Yeşillikleri BBQ Sos ile"},
-    "Sosisli Burger (Hot Dog)": {"price": "152,00", "info": "Franks Sosis, Karamelize Soğan, Sote Mantar, Patates Kızartması"}
+    "Boulevard Burger": {"price": "177,00", "info": "Ev Yapımı Burger Köfte, Turşu, Patates Kızartması, Akdeniz Yeşillikleri"},
+    "Texas Burger": {"price": "179,00", "info": "Ev Yapımı Burger Köfte, Cheddar, Acı Sos, Turşu Patates Kızartması"},
+    "Cheese Burger": {"price": "180,00", "info": "Çedar Peyniri, Marul Yaprakları, Turşu, Domates, Patates Kızartması"},
+    "Chicken Burger": {"price": "175,00", "info": "Tavuk Göğüsü, Çıtır Marul Yaprakları, Mayonez, Turşu, Domates, Patates Kızartması"},
+    "Steak Burger": {"price": "191,00", "info": "Bonﬁle Dilimleri, Erimiş Cheddar Peyniri, Patates Kızartması"},
+    "BBQ Burger": {"price": "178,00", "info": "Ev Yapımı Burger Köfte, Turşu Patates Kızartması, Akdeniz Yeşillikleri BBQ Sos ile"},
+    "Sosisli Burger (Hot Dog)": {"price": "172,00", "info": "Franks Sosis, Karamelize Soğan, Sote Mantar, Patates Kızartması"}
   },
   "ANA YEMEKLER": {
     "Izgara Bonﬁle": {"price": "252,00", "info": "Çifte Kavrulmuş Patates Püresi, Haşlanmış Sebze, Mantarlı Demi Glace Sos"},
@@ -144,7 +144,7 @@
     "Nutellalı Pizza": {"price": "97,00", "info": ""}
   },
   "ÇAY ÇEŞİTLERİ": {
-    "Çay": {"price": "20,00", "info": ""},
+    "Çay": {"price": "25,00", "info": ""},
     "Yaseminli Yeşil Çay": {"price": "69,00", "info": ""},
     "Zenceﬁl & Tarçın Çayı": {"price": "69,00", "info": ""},
     "Kış Çayı": {"price": "69,00", "info": ""},
@@ -159,9 +159,9 @@
     "Ada Çayı": {"price": "70,00", "info": ""}
   },
   "KAHVE\nSAHLEP\nÇİKOLATA": {
-    "Türk Kahvesi": {"price": "52,00", "info": "Su veya soda eşliğinde"},
-    "Damla Sakızlı Türk Kahvesi": {"price": "53,00", "info": "Su veya soda eşliğinde"},
-    "Menengiç Veya Dibek Kahvesi": {"price": "53,00", "info": "Su veya soda eşliğinde"},
+    "Türk Kahvesi": {"price": "55,00", "info": "Su veya soda eşliğinde"},
+    "Damla Sakızlı Türk Kahvesi": {"price": "60,00", "info": "Su veya soda eşliğinde"},
+    "Menengiç Veya Dibek Kahvesi": {"price": "60,00", "info": "Su veya soda eşliğinde"},
     "Espresso": {"price": "68,00", "info": ""},
     "Double Espresso": {"price": "69,00", "info": ""},
     "Sade Filtre Kahve": {"price": "70,00", "info": ""},
