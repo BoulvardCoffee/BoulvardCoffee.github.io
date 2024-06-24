@@ -24,7 +24,7 @@
   },
   "APERATİFLER": {
     "The Boulevard Combo": {
-      "price": "188,00",
+      "price": "210,00",
       "info": "Yıldız sosis, soğan halkası, mozarella sticks sigara böreği, ızgara köfte, akdeniz yeşilliği yoğurt ve patates kızartması ile"
     },
     "Sigara Böreği": {"price": "128,00", "info": "6 adet sigara böreği, patates kızartması akdeniz yeşilliği ve yoğurt ile"},
@@ -36,7 +36,7 @@
     },
     "Soğan Kroket": {"price": "128,00", "info": "6 adet panelenmiş soğan halkası, patates kızartması, akdeniz yeşilliği ile"},
     "Chicken Nugget": {"price": "128,00", "info": "Özel baharatlı patates kızartması ve tavuk nugget ile"},
-    "Aperatif Mix": {"price": "168,00", "info": "Patates kızartması, soğan, kroket, sigara böreği nugget ve yıldız sosis ile"},
+    "Aperatif Mix": {"price": "188,00", "info": "Patates kızartması, soğan, kroket, sigara böreği nugget ve yıldız sosis ile"},
     "Sosis Tava": {"price": "128,00", "info": "Özel baharatlı patates kızartması ve yıldız sosis"}
   },
   "TOSTLAR": {
@@ -54,14 +54,14 @@
     "Karışık Gözleme": {"price": "123,00", "info": ""}
   },
   "DÜRÜM, QUASEDILLA ve KREPLER": {
-    "Mantarlı Et Dürüm": {"price": "160,00", "info": ""},
-    "Vejeteryan Quesedilla": {"price": "151,00", "info": ""},
-    "Mantarlı Tavuk Dürüm": {"price": "154,00", "info": ""},
-    "Çıtır Tavuklu Dürüm": {"price": "154,00", "info": ""},
-    "Chilly Hot Wrap": {"price": "154,00", "info": ""},
-    "BBQ Krep": {"price": "154,00", "info": ""},
-    "Etli Quesadilla": {"price": "159,00", "info": ""},
-    "Tavuklu Quesadilla": {"price": "154,00", "info": ""}
+    "Mantarlı Et Dürüm": {"price": "170,00", "info": ""},
+    "Vejeteryan Quesedilla": {"price": "161,00", "info": ""},
+    "Mantarlı Tavuk Dürüm": {"price": "164,00", "info": ""},
+    "Çıtır Tavuklu Dürüm": {"price": "164,00", "info": ""},
+    "Chilly Hot Wrap": {"price": "164,00", "info": ""},
+    "BBQ Krep": {"price": "164,00", "info": ""},
+    "Etli Quesadilla": {"price": "169,00", "info": ""},
+    "Tavuklu Quesadilla": {"price": "164,00", "info": ""}
   },
   "PİZZALAR": {
     "Margarita Dop": {"price": "250,00", "info": "Mozarella, Fesleğen, Kekik, Domates Sos"},
