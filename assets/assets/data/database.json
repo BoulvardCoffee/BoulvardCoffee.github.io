@@ -24,44 +24,44 @@
   },
   "APERATİFLER": {
     "The Boulevard Combo": {
-      "price": "260,00",
+      "price": "275,00",
       "info": "Yıldız sosis, soğan halkası, mozarella sticks sigara böreği, ızgara köfte, akdeniz yeşilliği yoğurt ve patates kızartması ile"
     },
-    "Sigara Böreği": {"price": "138,00", "info": "6 adet sigara böreği, patates kızartması akdeniz yeşilliği ve yoğurt ile"},
-    "Özel Baharatlı Patates Kızarması": {"price": "138,00", "info": "Özel baharatlarla harmanlanmış patates kızartması ile"},
-    "Mozarella Sticks": {"price": "139,00", "info": "6 adet mozarella sticks, patates kızartması akdeniz yeşilliği, range sos ile"},
+    "Sigara Böreği": {"price": "153,00", "info": "6 adet sigara böreği, patates kızartması akdeniz yeşilliği ve yoğurt ile"},
+    "Özel Baharatlı Patates Kızarması": {"price": "153,00", "info": "Özel baharatlarla harmanlanmış patates kızartması ile"},
+    "Mozarella Sticks": {"price": "154,00", "info": "6 adet mozarella sticks, patates kızartması akdeniz yeşilliği, range sos ile"},
     "Mini Şiş Köfte Sandviç": {
-      "price": "154,00",
+      "price": "169,00",
       "info": "3 adet baharatlı kızarmış köfte topları, kıvırcık domates, turşu ve patates kızartması ile"
     },
-    "Soğan Kroket": {"price": "138,00", "info": "6 adet panelenmiş soğan halkası, patates kızartması, akdeniz yeşilliği ile"},
-    "Chicken Nugget": {"price": "138,00", "info": "Özel baharatlı patates kızartması ve tavuk nugget ile"},
-    "Aperatif Mix": {"price": "198,00", "info": "Patates kızartması, soğan, kroket, sigara böreği nugget ve yıldız sosis ile"},
-    "Sosis Tava": {"price": "138,00", "info": "Özel baharatlı patates kızartması ve yıldız sosis"}
+    "Soğan Kroket": {"price": "153,00", "info": "6 adet panelenmiş soğan halkası, patates kızartması, akdeniz yeşilliği ile"},
+    "Chicken Nugget": {"price": "153,00", "info": "Özel baharatlı patates kızartması ve tavuk nugget ile"},
+    "Aperatif Mix": {"price": "213,00", "info": "Patates kızartması, soğan, kroket, sigara böreği nugget ve yıldız sosis ile"},
+    "Sosis Tava": {"price": "153,00", "info": "Özel baharatlı patates kızartması ve yıldız sosis"}
   },
   "TOSTLAR": {
-    "Çift Kaşarlı Tost": {"price": "129,00", "info": ""},
-    "Sucuklu Tost": {"price": "131,00", "info": ""},
-    "Karışık Tost": {"price": "132,00", "info": ""},
-    "Salçalı Sanayi Tostu": {"price": "136,00", "info": ""},
-    "Bazlama Tost": {"price": "136,00", "info": ""},
-    "Beyaz Peynirli Tost": {"price": "127,00", "info": ""}
+    "Çift Kaşarlı Tost": {"price": "149,00", "info": ""},
+    "Sucuklu Tost": {"price": "151,00", "info": ""},
+    "Karışık Tost": {"price": "152,00", "info": ""},
+    "Salçalı Sanayi Tostu": {"price": "156,00", "info": ""},
+    "Bazlama Tost": {"price": "156,00", "info": ""},
+    "Beyaz Peynirli Tost": {"price": "147,00", "info": ""}
   },
   "GÖZLEMELER": {
-    "Patatesli Gözleme": {"price": "146,00", "info": ""},
-    "Kaşarlı Gözleme": {"price": "147,00", "info": ""},
-    "Sucuklu Gözleme": {"price": "147,00", "info": ""},
-    "Karışık Gözleme": {"price": "148,00", "info": ""}
+    "Patatesli Gözleme": {"price": "166,00", "info": ""},
+    "Kaşarlı Gözleme": {"price": "167,00", "info": ""},
+    "Sucuklu Gözleme": {"price": "167,00", "info": ""},
+    "Karışık Gözleme": {"price": "168,00", "info": ""}
   },
   "DÜRÜM, QUASEDILLA ve KREPLER": {
-    "Mantarlı Et Dürüm": {"price": "197,00", "info": ""},
-    "Vejeteryan Quesedilla": {"price": "188,00", "info": ""},
-    "Mantarlı Tavuk Dürüm": {"price": "191,00", "info": ""},
-    "Çıtır Tavuklu Dürüm": {"price": "191,00", "info": ""},
-    "Chilly Hot Wrap": {"price": "191,00", "info": ""},
-    "BBQ Krep": {"price": "191,00", "info": ""},
-    "Etli Quesadilla": {"price": "196,00", "info": ""},
-    "Tavuklu Quesadilla": {"price": "191,00", "info": ""}
+    "Mantarlı Et Dürüm": {"price": "217,00", "info": ""},
+    "Vejeteryan Quesedilla": {"price": "208,00", "info": ""},
+    "Mantarlı Tavuk Dürüm": {"price": "211,00", "info": ""},
+    "Çıtır Tavuklu Dürüm": {"price": "211,00", "info": ""},
+    "Chilly Hot Wrap": {"price": "211,00", "info": ""},
+    "BBQ Krep": {"price": "211,00", "info": ""},
+    "Etli Quesadilla": {"price": "216,00", "info": ""},
+    "Tavuklu Quesadilla": {"price": "211,00", "info": ""}
   },
   "PİZZALAR": {
     "Margarita Dop": {"price": "295,00", "info": "Mozarella, Fesleğen, Kekik, Domates Sos"},
@@ -78,14 +78,14 @@
     "Köz Patlıcanlı Garlic Soslu": {"price": "298,00", "info": "Köz patlıcan, sarımsak sos, kaşar peyniri, baharatlı domates sos, mozarella"}
   },
   "MAKARNALAR": {
-    "Penne Arabiatta": {"price": "186,00", "info": "Acılı Domates Sos, Siyah Zeytin, Cherry Domates"},
-    "Penne Emiliano": {"price": "188,00", "info": "Közlenmiş Domates Sos, Dana Bonﬁle Dilimleri, Mantar, Roka Ve Siyah Zeytin"},
-    "Tavuk Tagliatelli": {"price": "189,00", "info": "Taze Mantar, Tavuk Bonﬁle Dilimleri Ve Krema Sos ile"},
-    "Saray Mantı": {"price": "189,00", "info": "Kızarmış Mantı, Naneli Yoğurt Ve Köz Domates Sos ile"},
-    "Köri Soslu Penne": {"price": "188,00", "info": "Kremalı köri sos ile birlikte"},
-    "Bolonez Soslu Farfalle": {"price": "190,00", "info": "Bolonez sos ile birlikte"},
-    "Pesto De Penne": {"price": "190,00", "info": "Pesto sos ile birlikte"},
-    "Spagetti Napoliten": {"price": "191,00", "info": "Napoliten sos ile birlikte"}
+    "Penne Arabiatta": {"price": "206,00", "info": "Acılı Domates Sos, Siyah Zeytin, Cherry Domates"},
+    "Penne Emiliano": {"price": "208,00", "info": "Közlenmiş Domates Sos, Dana Bonﬁle Dilimleri, Mantar, Roka Ve Siyah Zeytin"},
+    "Tavuk Tagliatelli": {"price": "209,00", "info": "Taze Mantar, Tavuk Bonﬁle Dilimleri Ve Krema Sos ile"},
+    "Saray Mantı": {"price": "209,00", "info": "Kızarmış Mantı, Naneli Yoğurt Ve Köz Domates Sos ile"},
+    "Köri Soslu Penne": {"price": "208,00", "info": "Kremalı köri sos ile birlikte"},
+    "Bolonez Soslu Farfalle": {"price": "210,00", "info": "Bolonez sos ile birlikte"},
+    "Pesto De Penne": {"price": "210,00", "info": "Pesto sos ile birlikte"},
+    "Spagetti Napoliten": {"price": "211,00", "info": "Napoliten sos ile birlikte"}
   },
   "BURGERLER": {
     "Boulevard Burger": {"price": "267,00", "info": "Ev Yapımı Burger Köfte, Turşu, Patates Kızartması, Akdeniz Yeşillikleri"},
@@ -116,14 +116,14 @@
     "Chicken Mashroom": {"price": "252,00", "info": "Taze Mantar, Renkli Biberler, Çıtır Kabak, Krema Sos İle"}
   },
   "SALATALAR": {
-    "Sezar Salata": {"price": "157,00", "info": "Cruton, Kızarmış Sarımsak, Marul, Izgara Tavuk Göğüs, Sezar Sos İle"},
-    "Boulevard Salata Tavuklu": {"price": "158,00", "info": "Maskolin, Cruton Ekmek, Cherry Domates, Piliç Bonﬁle Dilimleri, Yağ-limon Sos İle"},
-    "Çıtır Tavuklu Salata": {"price": "159,00", "info": "Maskolin, Cherry Domates, Yağ-limon Sos, Panelenmiş Çıtır Tavuk Parçaları İle"},
-    "Peynirli Bahçe Salata": {"price": "156,00", "info": "Göbek, Roka, Cherry Domates, Mısır, Çengelköy, Ceviz, Ezine Peynir, Yağ-limon Sos İle"},
-    "Hellim Salata": {"price": "159,00", "info": "Akdeniz Yeşilliği, Kızarmış Hellim Peyniri, Köz Biber, Roka, Demi Glace Sos"},
-    "Akdeniz Soslu Salata": {"price": "155,00", "info": "Siyah zeytin, mısır, özel akdeniz sosu ile"},
-    "Cheese Salata": {"price": "159,00", "info": "Permasan peyniri, rendelenmiş kaşar peyniri, beyaz peynir, kekik ve sos ile"},
-    "Bufalo Soslu Tavuk Salata": {"price": "160,00", "info": "Bufalo soslu tavuk, kruton ekmek ve sos ile"}
+    "Sezar Salata": {"price": "177,00", "info": "Cruton, Kızarmış Sarımsak, Marul, Izgara Tavuk Göğüs, Sezar Sos İle"},
+    "Boulevard Salata Tavuklu": {"price": "178,00", "info": "Maskolin, Cruton Ekmek, Cherry Domates, Piliç Bonﬁle Dilimleri, Yağ-limon Sos İle"},
+    "Çıtır Tavuklu Salata": {"price": "179,00", "info": "Maskolin, Cherry Domates, Yağ-limon Sos, Panelenmiş Çıtır Tavuk Parçaları İle"},
+    "Peynirli Bahçe Salata": {"price": "176,00", "info": "Göbek, Roka, Cherry Domates, Mısır, Çengelköy, Ceviz, Ezine Peynir, Yağ-limon Sos İle"},
+    "Hellim Salata": {"price": "179,00", "info": "Akdeniz Yeşilliği, Kızarmış Hellim Peyniri, Köz Biber, Roka, Demi Glace Sos"},
+    "Akdeniz Soslu Salata": {"price": "175,00", "info": "Siyah zeytin, mısır, özel akdeniz sosu ile"},
+    "Cheese Salata": {"price": "179,00", "info": "Permasan peyniri, rendelenmiş kaşar peyniri, beyaz peynir, kekik ve sos ile"},
+    "Bufalo Soslu Tavuk Salata": {"price": "180,00", "info": "Bufalo soslu tavuk, kruton ekmek ve sos ile"}
   },
   "TATLILAR": {
     "Islak Kek": {"price": "180,00", "info": ""},
@@ -145,18 +145,18 @@
   },
   "ÇAY ÇEŞİTLERİ": {
     "Çay": {"price": "30,00", "info": ""},
-    "Yaseminli Yeşil Çay": {"price": "97,00", "info": ""},
-    "Zenceﬁl & Tarçın Çayı": {"price": "97,00", "info": ""},
-    "Kış Çayı": {"price": "97,00", "info": ""},
-    "Rezene Çayı": {"price": "97,00", "info": ""},
-    "Detox Çayı": {"price": "98,00", "info": ""},
-    "Zenceﬁl ": {"price": "97,00", "info": ""},
-    "Yeşil Çay": {"price": "97,00", "info": ""},
-    "Ihlamur": {"price": "98,00", "info": ""},
-    "Elma Çayı": {"price": "98,00", "info": ""},
-    "Elma Tarçın Çayı": {"price": "98,00", "info": ""},
-    "Papatya Çayı": {"price": "98,00", "info": ""},
-    "Ada Çayı": {"price": "98,00", "info": ""}
+    "Yaseminli Yeşil Çay": {"price": "107,00", "info": ""},
+    "Zenceﬁl & Tarçın Çayı": {"price": "107,00", "info": ""},
+    "Kış Çayı": {"price": "107,00", "info": ""},
+    "Rezene Çayı": {"price": "107,00", "info": ""},
+    "Detox Çayı": {"price": "108,00", "info": ""},
+    "Zenceﬁl ": {"price": "107,00", "info": ""},
+    "Yeşil Çay": {"price": "107,00", "info": ""},
+    "Ihlamur": {"price": "108,00", "info": ""},
+    "Elma Çayı": {"price": "108,00", "info": ""},
+    "Elma Tarçın Çayı": {"price": "108,00", "info": ""},
+    "Papatya Çayı": {"price": "108,00", "info": ""},
+    "Ada Çayı": {"price": "108,00", "info": ""}
   },
   "KAHVE\nSAHLEP\nÇİKOLATA": {
     "Türk Kahvesi": {"price": "69,00", "info": "Su veya soda eşliğinde"},
@@ -166,46 +166,46 @@
     "Double Espresso": {"price": "93,00", "info": ""},
     "Sade Filtre Kahve": {"price": "94,00", "info": ""},
     "Sütlü Filtre Kahve": {"price": "96,00", "info": ""},
-    "Macchiato": {"price": "93,00", "info": ""},
+    "Macchiato": {"price": "100,00", "info": ""},
     "Americano": {"price": "93,00", "info": ""},
-    "Latte": {"price": "94,00", "info": ""},
-    "Fındık Ezmeli Latte": {"price": "95,00", "info": ""},
-    "Cappuccino": {"price": "95,00", "info": ""},
-    "Marshmallow Cappuchino": {"price": "97,00", "info": ""},
-    "White Mocha": {"price": "97,00", "info": ""},
-    "Mocha": {"price": "95,00", "info": ""},
-    "White Nutella": {"price": "95,00", "info": ""},
-    "Coco Nutella": {"price": "95,00", "info": ""},
-    "Swiss Orange Mocha": {"price": "95,00", "info": ""},
-    "Irish Nut Cream": {"price": "95,00", "info": ""},
-    "Sıcak Çikolata": {"price": "95,00", "info": ""},
-    "Sıcak Beyaz Çikolata": {"price": "95,00", "info": ""},
-    "Tahinli Sıcak Çikolata": {"price": "98,00", "info": ""},
-    "Salep": {"price": "95,00", "info": ""},
-    "Antep Fıstıklı Salep": {"price": "96,00", "info": ""},
-    "Bademli Salep": {"price": "96,00", "info": ""},
-    "Oreolu Salep": {"price": "96,00", "info": ""}
+    "Latte": {"price": "101,00", "info": ""},
+    "Fındık Ezmeli Latte": {"price": "102,00", "info": ""},
+    "Cappuccino": {"price": "102,00", "info": ""},
+    "Marshmallow Cappuchino": {"price": "104,00", "info": ""},
+    "White Mocha": {"price": "104,00", "info": ""},
+    "Mocha": {"price": "102,00", "info": ""},
+    "White Nutella": {"price": "108,00", "info": ""},
+    "Coco Nutella": {"price": "108,00", "info": ""},
+    "Swiss Orange Mocha": {"price": "102,00", "info": ""},
+    "Irish Nut Cream": {"price": "102,00", "info": ""},
+    "Sıcak Çikolata": {"price": "108,00", "info": ""},
+    "Sıcak Beyaz Çikolata": {"price": "108,00", "info": ""},
+    "Tahinli Sıcak Çikolata": {"price": "109,00", "info": ""},
+    "Salep": {"price": "108,00", "info": ""},
+    "Antep Fıstıklı Salep": {"price": "109,00", "info": ""},
+    "Bademli Salep": {"price": "109,00", "info": ""},
+    "Oreolu Salep": {"price": "109,00", "info": ""}
   },
   "KOKTEYLLER": {
-    "Green Cure": {"price": "107,00", "info": "Nane, Limonata, Frappe"},
-    "Spoiler": {"price": "107,00", "info": "Süt, Limonata, Tuzlu Karamel"},
-    "Redline": {"price": "107,00", "info": "Çilek , Nar, Fesleğen, Mango"},
-    "Angel Face": {"price": "108,00", "info": "Vanilya Dondurma, Çilek, Böğürtlen"},
-    "Blue Diamond": {"price": "108,00", "info": "Limon Suyu, Portakal Kabuğu, Lime, Enerji"},
-    "Mojito Klasik": {"price": "107,00", "info": "Lime, Nane, Soda, Sprite"},
-    "Ocean Blue": {"price": "107,00", "info": "Soda, Limon Suyu, Blue Cracaou, Portakal Kabuğu"},
-    "Sweet Dream": {"price": "107,00", "info": "Kırmızı Orman Meyveleri, Böğürtlen, Limonata"},
-    "Spoiled Sour": {"price": "107,00", "info": "Nar, Elma, Limon, Sprite"},
-    "Marrakech": {"price": "121,00", "info": "Ceviz, Fındık, Süt, Bal, Kırmızı Orman Meyveleri"},
-    "Mojito Çilek": {"price": "108,00", "info": "Lıme, Nane, Soda, Sprite, Çilek"}
+    "Green Cure": {"price": "137,00", "info": "Nane, Limonata, Frappe"},
+    "Spoiler": {"price": "137,00", "info": "Süt, Limonata, Tuzlu Karamel"},
+    "Redline": {"price": "137,00", "info": "Çilek , Nar, Fesleğen, Mango"},
+    "Angel Face": {"price": "138,00", "info": "Vanilya Dondurma, Çilek, Böğürtlen"},
+    "Blue Diamond": {"price": "138,00", "info": "Limon Suyu, Portakal Kabuğu, Lime, Enerji"},
+    "Mojito Klasik": {"price": "137,00", "info": "Lime, Nane, Soda, Sprite"},
+    "Ocean Blue": {"price": "137,00", "info": "Soda, Limon Suyu, Blue Cracaou, Portakal Kabuğu"},
+    "Sweet Dream": {"price": "137,00", "info": "Kırmızı Orman Meyveleri, Böğürtlen, Limonata"},
+    "Spoiled Sour": {"price": "137,00", "info": "Nar, Elma, Limon, Sprite"},
+    "Marrakech": {"price": "151,00", "info": "Ceviz, Fındık, Süt, Bal, Kırmızı Orman Meyveleri"},
+    "Mojito Çilek": {"price": "138,00", "info": "Lıme, Nane, Soda, Sprite, Çilek"}
   },
   "SOĞUK SPECIAL KAHVELER": {
-    "Citrus Cold Brew Tonic": {"price": "94,00", "info": "Bitter Portakal, Intense Lime, Espresso"},
-    "Cold Brew Berry Fizz": {"price": "94,00", "info": "Vanilya, Soda, Espresso"},
-    "Çilek Mojito": {"price": "94,00", "info": "Çilek , Nar, Mango"},
-    "Cold Brew Cookie Mocha": {"price": "94,00", "info": "Çikolata"},
-    "Ice Latte": {"price": "93,00", "info": "Süt, Espresso, Vanilya"},
-    "Ice Americano": {"price": "93,00", "info": ""}
+    "Citrus Cold Brew Tonic": {"price": "112,00", "info": "Bitter Portakal, Intense Lime, Espresso"},
+    "Cold Brew Berry Fizz": {"price": "112,00", "info": "Vanilya, Soda, Espresso"},
+    "Çilek Mojito": {"price": "112,00", "info": "Çilek , Nar, Mango"},
+    "Cold Brew Cookie Mocha": {"price": "112,00", "info": "Çikolata"},
+    "Ice Latte": {"price": "111,00", "info": "Süt, Espresso, Vanilya"},
+    "Ice Americano": {"price": "111,00", "info": ""}
   },
   "SOĞUK SPECIAL ÇAYLAR": {
     "Greyfurt Şeftali Çayı": {"price": "94,00", "info": "Greyfurt, Şeftali, Çay, Chia Tohumu"},
@@ -226,32 +226,32 @@
     "CooL Lime": {"price": "96,00", "info": "Limon, Esmer Şeker, Nane"}
   },
   "FROZEN ÇEŞİTLERİ": {
-    "Çilek Frozen": {"price": "122,00", "info": ""},
-    "Mango Frozen": {"price": "122,00", "info": ""},
-    "Böğürtlen Frozen": {"price": "122,00", "info": ""},
-    "Karpuz Frozen": {"price": "122,00", "info": ""},
-    "Kavun Frozen": {"price": "122,00", "info": ""},
-    "Şeftali Frozen": {"price": "122,00", "info": ""},
-    "Muz Frozen": {"price": "122,00", "info": ""}
+    "Çilek Frozen": {"price": "137,00", "info": ""},
+    "Mango Frozen": {"price": "137,00", "info": ""},
+    "Böğürtlen Frozen": {"price": "137,00", "info": ""},
+    "Karpuz Frozen": {"price": "137,00", "info": ""},
+    "Kavun Frozen": {"price": "137,00", "info": ""},
+    "Şeftali Frozen": {"price": "137,00", "info": ""},
+    "Muz Frozen": {"price": "137,00", "info": ""}
   },
   "FRAPPE ÇEŞİTLERİ": {
-    "Klask Frappe": {"price": "118,00", "info": ""},
-    "Vanilyalı Frappe": {"price": "118,00", "info": ""},
-    "Nutella Frappe": {"price": "118,00", "info": ""},
-    "Muzlu Frappe": {"price": "118,00", "info": ""},
-    "Çilekli Frappe": {"price": "118,00", "info": ""},
-    "Coffee Toffee": {"price": "118,00", "info": ""},
-    "The Coco Frappe": {"price": "118,00", "info": ""}
+    "Klask Frappe": {"price": "133,00", "info": ""},
+    "Vanilyalı Frappe": {"price": "133,00", "info": ""},
+    "Nutella Frappe": {"price": "133,00", "info": ""},
+    "Muzlu Frappe": {"price": "133,00", "info": ""},
+    "Çilekli Frappe": {"price": "133,00", "info": ""},
+    "Coffee Toffee": {"price": "133,00", "info": ""},
+    "The Coco Frappe": {"price": "133,00", "info": ""}
   },
   "MILKSHAKE ÇEŞİTLERİ": {
-    "Wihte Milkshake": {"price": "117,00", "info": ""},
-    "Çilekli Milkshake": {"price": "117,00", "info": ""},
-    "Muzlu Milkshake": {"price": "117,00", "info": ""},
-    "Vanilyalı Milkshake": {"price": "117,00", "info": ""},
-    "Nutella Milkshake": {"price": "117,00", "info": ""},
-    "Oreo Milkshake": {"price": "117,00", "info": ""},
-    "Soğuk Çikolata": {"price": "117,00", "info": ""},
-    "Soğuk Beyaz Çikolata": {"price": "117,00", "info": ""}
+    "Wihte Milkshake": {"price": "132,00", "info": ""},
+    "Çilekli Milkshake": {"price": "132,00", "info": ""},
+    "Muzlu Milkshake": {"price": "132,00", "info": ""},
+    "Vanilyalı Milkshake": {"price": "132,00", "info": ""},
+    "Nutella Milkshake": {"price": "132,00", "info": ""},
+    "Oreo Milkshake": {"price": "132,00", "info": ""},
+    "Soğuk Çikolata": {"price": "132,00", "info": ""},
+    "Soğuk Beyaz Çikolata": {"price": "132,00", "info": ""}
   },  
   "SOĞUK İÇECEKLER": {
     "Cola & Meşrubat": {"price": "75,00", "info": ""},
